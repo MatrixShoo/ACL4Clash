@@ -1,4 +1,4 @@
-# 个人自用clash规则，fork来自
+# 个人自用clash规则，fork来自[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 
 
 
