@@ -2,6 +2,9 @@
 
 # MyList && Other
 DOMAIN-SUFFIX,chatgpt.oo0oo.space
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,knock.app
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
