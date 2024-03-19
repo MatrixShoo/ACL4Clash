@@ -1,5 +1,7 @@
 # 个人自用clash规则，fork来自[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 
+已经很久没有跟上他们的规则了
+
 
 
 
